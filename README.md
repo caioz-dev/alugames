@@ -1,1 +1,1 @@
-Projeto para simular um site de alugar e devolver jogos de tabuleiro
+Projeto para simular um site de alugar e devolver jogos de tabuleiro.
